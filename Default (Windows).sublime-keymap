@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+i"], "command": "related_file_list", "args": {"suggests": ["Store", "Controller", "Test"]} },
+    { "keys": ["ctrl+p"], "command": "related_file", "args": {"suggests": ["Store", "Controller"]} }
+]
