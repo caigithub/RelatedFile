@@ -1,5 +1,6 @@
 import sublime, sublime_plugin
-from RelatedFile import relatedFile 
+
+from RelatedFile import relatedFile
 
 class RelatedFileCommand(sublime_plugin.WindowCommand):
     def run(self, suggests=[]):
